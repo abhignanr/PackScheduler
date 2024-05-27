@@ -1,0 +1,11 @@
+Javadocs incomplete/not present throughout the majority of the code
+
+Code never initializes Student Directory or Course Catalog
+
+Logout sets current user to registrar
+
+Get current user is unimplemented
+
+No checks in login if student cannot be found by id
+
+Clear data does not set user to null.
