@@ -1,0 +1,2 @@
+CSC216,Software Development Fundamentals,002,3,ixdoming,10,MW,1330,1445
+CSC226,Discrete Mathematics for Computer Scientists,001,3,tmbarnes,10,MWF,935,1025
